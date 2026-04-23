@@ -1,0 +1,10 @@
+pandas
+requests
+pyarrow
+jupyter
+notebook
+python-dotenv
+
+tqdm
+
+beautifulsoup4

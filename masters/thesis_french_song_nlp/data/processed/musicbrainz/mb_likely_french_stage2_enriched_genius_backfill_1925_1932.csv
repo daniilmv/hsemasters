@@ -1,0 +1,540 @@
+year,song_title,artist_credit_name,artist_name,language_name,iso_code_3t,release_country_code,artist_country_code,track_id,recording_id,release_id,artist_id,likely_french_score,genre_name,genius_found,genius_song_id,genius_title,genius_artist,genius_url,genius_match_score,lyrics_found,lyrics_text,lyrics_source
+1931.0,À la dérive,Mme Andrée Turcy,Andrée Turcy,French,fra,FR,FR,47879562,38861560,4500625.0,636685.0,8,,True,6543988.0,Album incompleti e da trascrivere,Genius Italia,https://genius.com/Genius-italia-album-incompleti-e-da-trascrivere-annotated,0.2644,False,,
+1931.0,Les Gueuses,Mme Andrée Turcy,Andrée Turcy,French,fra,FR,FR,47879563,22685193,4500625.0,636685.0,8,,True,2983908.0,Veillée Pinouilles - Chapitre 6,James Joyce,https://genius.com/James-joyce-veillee-pinouilles-chapitre-6-annotated,0.2765,False,,
+1931.0,Tes yeux ou « La Chanson des yeux »,Mme. Andrée Turcy,Andrée Turcy,French,fra,FR,FR,47879658,38861614,4500633.0,636685.0,8,,True,2983908.0,Veillée Pinouilles - Chapitre 6,James Joyce,https://genius.com/James-joyce-veillee-pinouilles-chapitre-6-annotated,0.2793,False,,
+1931.0,Nous deux,Mme. Andrée Turcy et M. A. Garnier,Andrée Turcy,French,fra,FR,FR,47879659,38861615,4500633.0,636685.0,7,,True,2983908.0,Veillée Pinouilles - Chapitre 6,James Joyce,https://genius.com/James-joyce-veillee-pinouilles-chapitre-6-annotated,0.3167,False,,
+1931.0,Serenata dei fiori,Berthe Sylva,Berthe Sylva,French,fra,FR,FR,56204258,44965467,5533237.0,223745.0,7,,True,462323.0,Names of People (Chapter 1),Marcel Proust,https://genius.com/Marcel-proust-names-of-people-chapter-1-annotated,0.1996,False,,
+1931.0,Le Roi Dagobert,Mad Rainvyl,Mad Rainvyl,French,fra,FR,,45528791,37159025,4231781.0,2682245.0,6,,True,458032.0,Combray [Chapter 2],Marcel Proust,https://genius.com/Marcel-proust-combray-chapter-2-annotated,0.2696,False,,
+1931.0,La Bonne aventure,Mad Rainvyl,Mad Rainvyl,French,fra,FR,,45528792,37159026,4231781.0,2682245.0,6,,True,352159.0,Career Move,Martin Amis,https://genius.com/Martin-amis-career-move-annotated,0.3912,False,,
+1930.0,Véronique : duo de l'escarpolette,"Mad Rainvyl, Louis Lynel",Mad Rainvyl,French,fra,FR,,45528933,37159120,4231806.0,2682245.0,6,,False,,,,,0.0,False,,
+1930.0,Ciboulette : Nous avons fait un beau voyage,"Mad Rainvyl, Louis Lynel",Mad Rainvyl,French,fra,FR,,45528934,37159121,4231806.0,2682245.0,6,,False,,,,,0.0,False,,
+1930.0,Agoulou,L’Orchestre du Bal antillais,Orchestre du Bal antillais,French,fra,FR,,34344088,29165966,3001268.0,255090.0,5,,False,,,,,0.0,False,,
+1930.0,Bonjour loca,L’Orchestre du Bal antillais,Orchestre du Bal antillais,French,fra,FR,,34344089,29165967,3001268.0,255090.0,6,,False,,,,,0.0,False,,
+1930.0,Quand même,L’Orchestre du Bal antillais,Orchestre du Bal antillais,French,fra,FR,,34344093,29165970,3001271.0,255090.0,5,,False,,,,,0.0,False,,
+1930.0,Nana ou gros zozo,L’Orchestre du Bal antillais,Orchestre du Bal antillais,French,fra,FR,,34344094,29165971,3001271.0,255090.0,5,,False,,,,,0.0,False,,
+1930.0,Paris‐biguine,L’Orchestre du Bal antillais,Orchestre du Bal antillais,French,fra,FR,,34344099,29165972,3001273.0,255090.0,6,,False,,,,,0.0,False,,
+1930.0,Mémée la créole,L’Orchestre du Bal antillais,Orchestre du Bal antillais,French,fra,FR,,34344100,29165973,3001273.0,255090.0,6,,False,,,,,0.0,False,,
+1930.0,L'Échelle roule,L’Orchestre du Bal antillais,Orchestre du Bal antillais,French,fra,FR,,34344267,29166131,3001287.0,255090.0,5,,False,,,,,0.0,False,,
+1930.0,Zafe co ida,L’Orchestre du Bal antillais,Orchestre du Bal antillais,French,fra,FR,,34344268,29166132,3001287.0,255090.0,5,,False,,,,,0.0,False,,
+1930.0,En l’ai mone‐la,L’Orchestre du Bal antillais,Orchestre du Bal antillais,French,fra,FR,,34344269,29166133,3001288.0,255090.0,6,,False,,,,,0.0,False,,
+1930.0,Georgi‐nana,L’Orchestre du Bal antillais,Orchestre du Bal antillais,French,fra,FR,,34344270,29166134,3001288.0,255090.0,5,,False,,,,,0.0,False,,
+1930.0,Ninon,L’Orchestre du Bal antillais,Orchestre du Bal antillais,French,fra,FR,,34344274,29166138,3001290.0,255090.0,5,,False,,,,,0.0,False,,
+1930.0,Femme qui dou,L’Orchestre du Bal antillais,Orchestre du Bal antillais,French,fra,FR,,34344275,29166139,3001290.0,255090.0,5,,False,,,,,0.0,False,,
+1931.0,A si pare,L’Orchestre du Bal antillais,Orchestre du Bal antillais,French,fra,FR,,34344341,29166181,3001298.0,255090.0,5,,True,2851588.0,Tanbou-La Ja Bout,"Alphaaz, Sébastien Drumeaux, EDS., Mano D’iShango",https://genius.com/Alphaaz-sebastien-drumeaux-eds-mano-dishango-tanbou-la-ja-bout-lyrics,0.2713,False,,
+1931.0,Soigne i ba moin,L’Orchestre du Bal antillais,Orchestre du Bal antillais,French,fra,FR,,34344342,29166182,3001298.0,255090.0,5,,False,,,,,0.0,False,,
+1931.0,Marie Clémence,L’Orchestre du Bal antillais,Orchestre du Bal antillais,French,fra,FR,,34344360,29166200,3001301.0,255090.0,5,,False,,,,,0.0,False,,
+1931.0,Surrah !,L’Orchestre du Bal antillais,Orchestre du Bal antillais,French,fra,FR,,34344361,29166201,3001301.0,255090.0,5,,False,,,,,0.0,False,,
+1932.0,Femme qui dou !,Orchestre “Tagada-biguine”,Orchestre “Tagada-Biguine” de Alexandre Stellio,French,fra,FR,MQ,34344464,29166273,3001311.0,1299744.0,5,,False,,,,,0.0,False,,
+1932.0,Finotte,Orchestre “Tagada-biguine”,Orchestre “Tagada-Biguine” de Alexandre Stellio,French,fra,FR,MQ,34344465,29166274,3001311.0,1299744.0,5,,False,,,,,0.0,False,,
+1932.0,Balcon fleuri,Orchestre “Tagada-biguine”,Orchestre “Tagada-Biguine” de Alexandre Stellio,French,fra,FR,MQ,34344466,29166275,3001312.0,1299744.0,5,,False,,,,,0.0,False,,
+1932.0,Paris‐biguine,Orchestre “Tagada-biguine”,Orchestre “Tagada-Biguine” de Alexandre Stellio,French,fra,FR,MQ,34344467,29166276,3001312.0,1299744.0,6,,False,,,,,0.0,False,,
+1932.0,L’Échelle poule,Orchestre “Tagada-biguine”,Orchestre “Tagada-Biguine” de Alexandre Stellio,French,fra,FR,MQ,34344469,29166278,3001314.0,1299744.0,5,,False,,,,,0.0,False,,
+1932.0,Corossolle‐doudou,Orchestre “Tagada-biguine”,Orchestre “Tagada-Biguine” de Alexandre Stellio,French,fra,FR,MQ,34344470,29166279,3001314.0,1299744.0,5,,False,,,,,0.0,False,,
+1929.0,Sepent maigre,L’Orchestre antillais,L’Orchestre antillais,French,fra,FR,,34344817,29166581,3001344.0,425318.0,5,,False,,,,,0.0,False,,
+1929.0,Yaya moin ni l’agent,L’Orchestre antillais,L’Orchestre antillais,French,fra,FR,,34344818,29166582,3001344.0,425318.0,5,,False,,,,,0.0,False,,
+1929.0,"En sens unique, S.V.P.",L’Orchestre antillais,L’Orchestre antillais,French,fra,FR,,34344832,29166584,3001346.0,425318.0,5,,False,,,,,0.0,False,,
+1929.0,Ah ! Gade chabine‐la,L’Orchestre antillais,L’Orchestre antillais,French,fra,FR,,34344833,29166585,3001346.0,425318.0,6,,False,,,,,0.0,False,,
+1929.0,Mussieu satan faché,L’Orchestre antillais,L’Orchestre antillais,French,fra,FR,,34344834,29166586,3001348.0,425318.0,5,,False,,,,,0.0,False,,
+1929.0,Mussieu dollar,L’Orchestre antillais,L’Orchestre antillais,French,fra,FR,,34344835,29166587,3001348.0,425318.0,5,,False,,,,,0.0,False,,
+1931.0,Minnie the Moocher (The Ho De Ho Song),Cab Calloway and His Orchestra,Cab Calloway and His Orchestra,English,eng,FR,US,35097131,29718529,3081015.0,1165476.0,3,,False,,,,,0.0,False,,
+1932.0,Les femmes sont perfides,Billy Cotton & Son Jazz,Billy Cotton & His Band,[Multiple languages],mul,FR,GB,38755449,32328369,3466874.0,283501.0,3,,True,179977.0,Essays of Michel de Montaigne (Chap. 2.12),Michel de Montaigne,https://genius.com/Michel-de-montaigne-essays-of-michel-de-montaigne-chap-212-annotated,0.2939,False,,
+1932.0,Tu m’as fait tant souffrir,Mme. Lys Gauty,Lys Gauty,French,fra,FR,FR,27736497,8403294,2375741.0,247730.0,7,,False,,,,,0.0,False,,
+1932.0,Prends‐moi dans tes bras,Mme. Lys Gauty,Lys Gauty,French,fra,FR,FR,27736498,8403295,2375741.0,247730.0,7,,False,,,,,0.0,False,,
+1932.0,La Barque d'Yves,Lucienne Boyer,Lucienne Boyer,French,fra,FR,FR,34393031,18883638,3006558.0,121858.0,8,,True,1158254.0,La Barque DYves,Lucienne Boyer,https://genius.com/Lucienne-boyer-la-barque-dyves-lyrics,0.979,True,"1 Contributor
+La Barque DYves Lyrics
+Le matin se lève
+Le long de la grève
+L'ombre suit discrètement
+Tout dans la nature
+Mugit et murmure
+Et rit au soleil ardent
+Sur la barque folle
+Qui tangue et qui vole
+Yves m'a dit tendrement
+Baisse les yeux ma mie
+Et qu'importe le jour
+Sur ta lèvre jolie
+Mon baiser passe et court
+Oublieux de la terre
+Je t'aime et quand tu dors
+L'amour et le mystère
+Versent des rêves d'or
+Mais un jour d'orage
+Il a fait naufrage
+Et notre barque a sombré
+Marin qui succombe
+N'a pas d'autre tombe
+Que la mer qui fait pleurer
+
+Mais depuis j'écoute
+Car un jour sans doute
+Je l'entendrai murmurer
+Baisse les yeux ma mie
+Le destin est plus fort
+Que les lèvres jolies
+Et que les rêves d'or
+Quand ton coeur sans défense
+Sera las de souffrir
+Viens dans la mer immense
+Près de moi t'endormir
+Je viens de l'entendre
+Et sa voix si tendre
+Redit mon nom doucement
+Ma douleur est morte
+La barque m'emporte
+Près de celui qui m'attend
+Une vague douce
+M'entraîne et me pousse
+Et me dit en m'enlaçant
+Ferme les yeux ma mie
+Et qu'importe le jour
+Sur ta lèvre jolie
+Lentement meurt l'amour
+
+Les bonheurs de la Terre
+Sont brisés par le sort
+Seuls l'ombre et le mystère
+Bercent nos rêves d'or",genius
+1932.0,Ne dis pas toujours,Lucienne Boyer,Lucienne Boyer,French,fra,FR,FR,34393032,18910083,3006558.0,121858.0,7,,False,,,,,0.0,False,,
+1925.0,"Introduction et Rondo Capriccioso, op. 28: Part I",Camille Saint‐Saëns,Camille Saint‐Saëns,French,fra,GB,FR,24596802,22077943,2100991.0,10289.0,6,,False,,,,,0.0,False,,
+1925.0,"Introduction et Rondo Capriccioso, op. 28: Part II",Camille Saint‐Saëns,Camille Saint‐Saëns,French,fra,GB,FR,24596803,22077944,2100991.0,10289.0,6,,False,,,,,0.0,False,,
+1930.0,Dans la fumée,Lucienne Boyer,Lucienne Boyer,French,fra,FR,FR,12533741,18883635,588185.0,121858.0,8,,False,,,,,0.0,False,,
+1926.0,Brown Eyes Why Are You Blue?,Joséphine Baker,Joséphine Baker,English,eng,FR,FR,7517875,8859064,485058.0,4322.0,4,,True,82309.0,Portrait of the Artist as a Young Man Chapter 2,James Joyce,https://genius.com/James-joyce-portrait-of-the-artist-as-a-young-man-chapter-2-lyrics,0.3061,False,,
+1926.0,You Are the Only One for Me,Joséphine Baker,Joséphine Baker,English,eng,FR,FR,7517876,8304255,485058.0,4322.0,4,,True,288445.0,Hitting The Gold Mine: Run The Jewels Q&A,NME,https://genius.com/Nme-hitting-the-gold-mine-run-the-jewels-q-a-annotated,0.3454,False,,
+1927.0,I Love Dancing,Joséphine Baker,Joséphine Baker,English,eng,FR,FR,7585261,23003051,492897.0,4322.0,4,,True,386688.0,Babylon Revisited,F. Scott Fitzgerald,https://genius.com/F-scott-fitzgerald-babylon-revisited-annotated,0.292,False,,
+1927.0,Lonesome Lovesick Blues,Joséphine Baker,Joséphine Baker,English,eng,FR,FR,7585262,15670983,492897.0,4322.0,4,,True,151191.0,Finnegans Wake (Chap. 2.1),James Joyce,https://genius.com/James-joyce-finnegans-wake-chap-21-annotated,0.2665,False,,
+1930.0,J’ai deux amours,Joséphine Baker,Joséphine Baker,French,fra,FR,FR,7781420,45447,516258.0,4322.0,7,,True,2067658.0,J’ai Deux Amours,Josephine Baker,https://genius.com/Josephine-baker-jai-deux-amours-lyrics,0.9767,True,"4 Contributors
+J’ai Deux Amours Lyrics
+[Paroles de ""J'ai deux amours""]
+[Couplet]
+On dit qu'au delà des mers, là-bas sous le ciel clair
+Il existe une cité au séjour enchanté
+Et sous les grands arbres noirs, chaque soir
+Vers elle s'en va tout mon espoir
+[Refrain]
+J'ai deux amours
+Mon pays et Paris
+Par eux, toujours
+Mon cœur est ravi
+Ma savane est belle
+Mais à quoi bon le nier
+Ce qui m'ensorcelle
+C'est Paris, Paris tout entier
+Le voir un jour
+C'est mon rêve joli
+J'ai deux amours
+Mon pays et Paris
+[Vocalises]
+[Pont]
+Ce qui m'ensorcelle
+C'est Paris, Paris tout entier
+
+[Refrain]
+Le voir un jour
+Oh oh-oh oh-oh-oh
+J'ai deux amours... Ti-li-ti-ti-ti
+Mon pays... Ti-li-ti",genius
+1930.0,"Véronique : duo de l'escarpolette, 1re partie","Roger Bourdin, Emma Luart",Roger Bourdin,French,fra,FR,FR,45851699,17520805,4267872.0,1210476.0,8,,False,,,,,0.0,False,,
+1932.0,Monpetit,Léoni Avec Jazz Bidgood,Henri Leoni,French,fra,FR,FR,38874806,32411007,3481297.0,2099905.0,7,,True,458088.0,Madame Swann at Home (Chapter 1),Marcel Proust,https://genius.com/Marcel-proust-madame-swann-at-home-chapter-1-lyrics,0.2175,False,,
+1932.0,Mon arc-en-ciel,Léoni Avec Jazz Bidgood,Henri Leoni,French,fra,FR,FR,38874807,32411008,3481297.0,2099905.0,7,,False,,,,,0.0,False,,
+1932.0,Sans toi,Mlle Lucienne Boyer,Lucienne Boyer,French,fra,FR,FR,28868143,3836579,2480697.0,121858.0,7,,True,1258152.0,Si Petite,Lucienne Boyer,https://genius.com/Lucienne-boyer-si-petite-lyrics,0.6559,False,,
+1927.0,Youp et youp,Mlle Lucienne Boyer,Lucienne Boyer,French,fra,FR,FR,28869901,18883632,2480870.0,121858.0,8,,True,462323.0,Names of People (Chapter 1),Marcel Proust,https://genius.com/Marcel-proust-names-of-people-chapter-1-annotated,0.2185,False,,
+1927.0,Pas comme avec toi,Mlle Lucienne Boyer,Lucienne Boyer,French,fra,FR,FR,28869902,8428672,2480870.0,121858.0,7,,True,462325.0,A Visit from Albertine (Chapter 2),Marcel Proust,https://genius.com/Marcel-proust-a-visit-from-albertine-chapter-2-annotated,0.3019,False,,
+1930.0,Le Coup dur,Mlle Lucienne Boyer,Lucienne Boyer,French,fra,FR,FR,28869927,18883636,2480872.0,121858.0,8,,True,462323.0,Names of People (Chapter 1),Marcel Proust,https://genius.com/Marcel-proust-names-of-people-chapter-1-annotated,0.2571,False,,
+1930.0,Attends,Mlle Lucienne Boyer,Lucienne Boyer,French,fra,FR,FR,28869928,8428682,2480872.0,121858.0,7,,True,5168609.0,Gala de l’ADISQ 1986,ADISQ,https://genius.com/Adisq-gala-de-ladisq-1986-annotated,0.2294,False,,
+1930.0,Parle‐moi…,Mlle Lucienne Boyer,Lucienne Boyer,French,fra,FR,FR,28869934,8428677,2480874.0,121858.0,7,,True,1158254.0,La Barque DYves,Lucienne Boyer,https://genius.com/Lucienne-boyer-la-barque-dyves-lyrics,0.506,False,,
+1930.0,Prenez mes roses,Mlle Lucienne Boyer,Lucienne Boyer,French,fra,FR,FR,28869935,8428680,2480874.0,121858.0,7,,True,2984731.0,Veillée Pinouilles - Chapitre 7,James Joyce,https://genius.com/James-joyce-veillee-pinouilles-chapitre-7-annotated,0.3336,False,,
+1929.0,Les Ananas,Maurice Chevalier,Maurice Chevalier,French,fra,FR,FR,47104002,4012540,4412888.0,4033.0,8,,False,,,,,0.0,False,,
+1929.0,Valentine,Maurice Chevalier,Maurice Chevalier,French,fra,FR,FR,47104003,26234299,4412888.0,4033.0,7,,True,906531.0,Valentine,Maurice Chevalier,https://genius.com/Maurice-chevalier-valentine-lyrics,1.0,True,"1 Contributor
+Valentine Lyrics
+On se rappelle toujours sa première maîtresse
+J'ai gardé d'la mienne un souvenir pleine d'ivresse
+Un jour qu'il avait plu
+Tous deux on s'était plu
+Ensuite on se plut de plus en plus
+J'lui d'mandait son nom, elle me dit Valentine
+Et comme elle suivait chaque soir la rue Custine
+Je pris le même chemin
+Et puis j'lui pris la main
+J'lui pris tout enfin
+Elle avait des tout petits petons, Valentine, Valentine
+Elle avait des tout petits tétons
+Que je tâtais à tâtons, Ton ton tontaine
+Elle avait un tout petit menton, Valentine, Valentine
+Outre ses petits petons ses petits tétons son petit menton
+Elle était frisée comme un mouton
+Elle n'était pas une grande intelligence
+Mais dans un plumard, ça n'a pas d'importance
+Quand on a dix-huit ans
+On n'en demande pas tant
+Du moment qu'on s'aime, on est content
+Elle n'avait pas un très bon caractère
+Elle était jalouse et même autoritaire
+Pourtant, j'en étais fous
+Elle me plaisait beaucoup
+Parce que surtout
+
+Elle avait des tout petits petons, Valentine, Valentine
+Elle avait des tout petits tétons
+Que je tâtais à tâtons, Ton ton tontaine
+Elle avait un tout petit menton, Valentine, Valentine
+Outre ses petits petons ses petits tétons son petit menton
+Elle était frisée comme un mouton
+Hier, sur le boulevard, je rencontre une grosse dame
+Avec des grands pieds, une taille d'hippopotame
+Vivement elle m'saute au cou
+Me crie bonjour, mon loup
+Je lui dis pardon, mais qui êtes vous
+Elle sourit voyons, mais c'est moi, Valentine
+Devant son double menton, sa triple poitrine
+Je pensais, rempli d'effroi
+Qu'elle a changé , ma foi
+Dire qu'autre fois
+Elle avait des tout petits petons, Valentine
+Mais ils sont enflés à présent Valentine
+Elle avait des tout petits tétons des vraie p'tite pommes
+Non non j'aime mieux parler d'autre chose voila
+Elle avait elle avait un tout petit menton, avec une p'tite pincette
+Elle en a quatre ou cinq mentons maintenant
+Oh cette pauvre petite Valentine ça d'vrait pas être permis ça non
+C'est des trucs qui ne devarait pas être permis
+Non",genius
+1931.0,Quand la brise vagabonde,Comedian Harmonists,Comedian Harmonists,French,fra,FR,DE,38912960,32437656,3485821.0,32974.0,6,,True,922377.0,Quand la brise vagabonde,Comedian Harmonists,https://genius.com/Comedian-harmonists-quand-la-brise-vagabonde-lyrics,1.0,True,"1 Contributor
+Quand la brise vagabonde Lyrics
+Quand la brise vagabonde
+Je lui chante pour ma blonde
+Ma plus tendre ritournelle
+Qu'elle emporte sur son aile
+C'est le vent qui dit à ma belle
+Que je lui suis toujours fidèle
+Car la brise sera toujours
+Messagère de l'amour
+Dans ma patrie
+Nul ne t'oublie
+Je pense à toi toujours
+Je te témoigne
+Plus je m'éloigne
+Mille preuves d'amour
+Quand la brise vagabonde
+Je lui chante pour ma blonde
+Ma plus tendre ritournelle
+Qu'elle emporte sur son aile
+C'est le vent qui dit à ma belle
+Que je lui suis toujours fidèle
+Car la brise sera toujours
+Messagère de l'amour
+Messagère de l'amour",genius
+1931.0,Les gars de la marine,Comedian Harmonists,Comedian Harmonists,French,fra,FR,DE,38912959,935255,3485821.0,32974.0,6,,True,1411730.0,Les gars de la marine (Das ist die Liebe der Matrosen),Comedian Harmonists,https://genius.com/Comedian-harmonists-les-gars-de-la-marine-das-ist-die-liebe-der-matrosen-lyrics,0.714,False,,
+1931.0,"Véronique, le printemps est là",Comedian Harmonists,Comedian Harmonists,[Multiple languages],mul,FR,DE,38914069,32438464,3485923.0,32974.0,3,,False,,,,,0.0,False,,
+1929.0,Adieu Paris,Mme Berthe Sylva,Berthe Sylva,French,fra,FR,FR,42963417,3763368,3940186.0,223745.0,8,,True,181579.0,Ulysses (Chap. 16 - Eumaeus),James Joyce,https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated,0.2275,False,,
+1929.0,À Paname un soir,Mme Berthe Sylva,Berthe Sylva,French,fra,FR,FR,42963418,8892818,3940186.0,223745.0,8,,False,,,,,0.0,False,,
+1929.0,C’est un petit nid,Mme Berthe Sylva,Berthe Sylva,French,fra,FR,FR,42963470,35326512,3940194.0,223745.0,8,,False,,,,,0.0,False,,
+1930.0,C’est mon gigolo,Mme Berthe Sylva,Berthe Sylva,French,fra,FR,FR,42963496,3553446,3940197.0,223745.0,7,,False,,,,,0.0,False,,
+1930.0,Tu me dis non,Mme Berthe Sylva,Berthe Sylva,French,fra,FR,FR,42963497,35326528,3940197.0,223745.0,7,,False,,,,,0.0,False,,
+1930.0,Désir,Mme Berthe Sylva,Berthe Sylva,French,fra,FR,FR,42981454,35339054,3942468.0,223745.0,7,,True,118240.0,Tess of the D’Urbervilles: Chapter 5,Thomas Hardy,https://genius.com/Thomas-hardy-tess-of-the-durbervilles-chapter-5-annotated,0.2118,False,,
+1930.0,Dolorita,Mme Berthe Sylva,Berthe Sylva,French,fra,FR,FR,42981455,35339055,3942468.0,223745.0,7,,False,,,,,0.0,False,,
+1930.0,Musette,Mme Berthe Sylva,Berthe Sylva,French,fra,FR,FR,42999644,29040137,3944312.0,223745.0,7,,True,158803.0,Villette (Chap. 39),Charlotte Brontë,https://genius.com/Charlotte-bronte-villette-chap-39-annotated,0.3,False,,
+1930.0,Fleur de misère,Mme Berthe Sylva,Berthe Sylva,French,fra,FR,FR,42999645,3553451,3944312.0,223745.0,8,,True,2082162.0,Les roses blanches,Berthe Sylva,https://genius.com/Berthe-sylva-les-roses-blanches-lyrics,0.5864,False,,
+1930.0,Détresse,Mme Berthe Sylva,Berthe Sylva,French,fra,FR,FR,43000115,35353601,3944329.0,223745.0,7,,True,3319541.0,Poetisas no Topo,NaBrisa,https://genius.com/Nabrisa-azzy-souto-mc-bivolt-drik-barbosa-mariana-mello-and-karol-de-souza-poetisas-no-topo-lyrics,0.3099,False,,
+1930.0,La Vieille Auberge,Mme Berthe Sylva,Berthe Sylva,French,fra,FR,FR,43001963,35355010,3944453.0,223745.0,8,,False,,,,,0.0,False,,
+1932.0,China Boy,Les French Hot Boys,Les French Hot Boys,English,eng,FR,FR,11271797,12834653,1083602.0,832762.0,4,,True,464812.0,Chapter 2,Marcel Proust,https://genius.com/Marcel-proust-chapter-2-annotated,0.3545,False,,
+1932.0,Some of These Days,Les French Hot Boys,Les French Hot Boys,English,eng,FR,FR,11271798,12834654,1083602.0,832762.0,4,,True,4235490.0,The 200 Best Songs of the 1960s,Pitchfork,https://genius.com/Pitchfork-the-200-best-songs-of-the-1960s-annotated,0.3403,False,,
+1930.0,Adoration,Mme Berthe Sylva,Berthe Sylva,French,fra,FR,FR,43013230,35363534,3945987.0,223745.0,7,,True,2213811.0,Why Have There Been No Great Women Artists?,Linda Nochlin,https://genius.com/Linda-nochlin-why-have-there-been-no-great-women-artists-annotated,0.206,False,,
+1930.0,"Aimer, souffrir, mourir",Mme Berthe Sylva,Berthe Sylva,French,fra,FR,FR,43013231,3553452,3945987.0,223745.0,7,,False,,,,,0.0,False,,
+1931.0,Je suis Brac...,Bach,Bach,,,FR,FR,35532879,30024350,3122889.0,477395.0,4,,True,49043.0,Saddam Hauts-de-Seine,Booba,https://genius.com/Booba-saddam-hauts-de-seine-lyrics,0.2639,False,,
+1931.0,On n'm'a pas,Bach,Bach,,,FR,FR,35532880,30024351,3122889.0,477395.0,4,,True,2980458.0,Ma Ajebtinich,Hoba Hoba Spirit,https://genius.com/Hoba-hoba-spirit-ma-ajebtinich-lyrics,0.313,False,,
+1927.0,Creole Love Call (Llamada Criolla de Amor),Duke Ellington Et Son Orchestre,Duke Ellington and His Orchestra,English,eng,FR,US,35578426,30058427,3127382.0,33800.0,3,,False,,,,,0.0,False,,
+1931.0,Tu m’oublieras,Mme Berthe Sylva,Berthe Sylva,French,fra,FR,FR,43027537,3553454,3947574.0,223745.0,7,,False,,,,,0.0,False,,
+1931.0,La Douceur d’aimer,Mme Berthe Sylva,Berthe Sylva,French,fra,FR,FR,43027538,17235207,3947574.0,223745.0,8,,False,,,,,0.0,False,,
+1931.0,C’est un tout petit,Mme Berthe Sylva,Berthe Sylva,French,fra,FR,FR,43027686,35327303,3947580.0,223745.0,8,,True,2082162.0,Les roses blanches,Berthe Sylva,https://genius.com/Berthe-sylva-les-roses-blanches-lyrics,0.5257,False,,
+1931.0,Lorsque je vois tes yeux,Mme Berthe Sylva,Berthe Sylva,French,fra,FR,FR,43027687,35372965,3947580.0,223745.0,7,,False,,,,,0.0,False,,
+1931.0,Cœur de voyou,"Mme Berthe Sylva, des Concerts Parisiens",Berthe Sylva,French,fra,FR,FR,43028430,17235198,3947652.0,223745.0,8,,False,,,,,0.0,False,,
+1932.0,Musette-java,Berthe Sylva,Berthe Sylva,French,fra,FR,FR,43038523,35380559,3948808.0,223745.0,7,,False,,,,,0.0,False,,
+1932.0,Gosse de misère,Berthe Sylva,Berthe Sylva,French,fra,FR,FR,43038524,3553624,3948808.0,223745.0,8,,True,2082162.0,Les roses blanches,Berthe Sylva,https://genius.com/Berthe-sylva-les-roses-blanches-lyrics,0.547,False,,
+1930.0,Le Tango des fauvettes,Mme Berthe Sylva,Berthe Sylva,French,fra,FR,FR,43000114,3553460,3944329.0,223745.0,8,,False,,,,,0.0,False,,
+1930.0,Bonhomme Noël,Mme Berthe Sylva,Berthe Sylva,French,fra,FR,FR,43001964,18777381,3944453.0,223745.0,7,,True,151206.0,Finnegans Wake (Chap. 2.3),James Joyce,https://genius.com/James-joyce-finnegans-wake-chap-23-annotated,0.1609,False,,
+1929.0,Le Raccommodeur de faïence,Mme Berthe Sylva,Berthe Sylva,French,fra,FR,FR,42963471,32445406,3940194.0,223745.0,8,,False,,,,,0.0,False,,
+1925.0,Werther : Air des larmes,Marthe Chenal,Marthe Chenal,French,fra,FR,FR,35257639,29828927,3096255.0,2018999.0,8,,True,241316.0,Black Panthers: Behind the Myth,The Guardian,https://genius.com/The-guardian-black-panthers-behind-the-myth-annotated,0.4,False,,
+1925.0,Carmen : Habanera,Marthe Chenal,Marthe Chenal,French,fra,FR,FR,35257640,29828928,3096255.0,2018999.0,7,,True,362563.0,State of the Union 1912,William Howard Taft,https://genius.com/William-howard-taft-state-of-the-union-1912-annotated,0.2394,False,,
+1929.0,Mariette : Acte II. Scène finale (1st part),"Sacha Guitry, Yvonne Printemps",Sacha Guitry,French,fra,FR,FR,36568086,30773534,3231809.0,561426.0,7,,False,,,,,0.0,False,,
+1929.0,Mariette : Acte II. Scène finale (2nd part),"Sacha Guitry, Yvonne Printemps",Sacha Guitry,French,fra,FR,FR,36568087,30773535,3231809.0,561426.0,7,,False,,,,,0.0,False,,
+1931.0,Rôdeuse de barrière,"Madame Berthe Sylva, des Concerts Parisiens",Berthe Sylva,French,fra,FR,FR,43024264,18666951,3947255.0,223745.0,8,,False,,,,,0.0,False,,
+1931.0,Rupture,"Madame Berthe Sylva, des Concerts Parisiens",Berthe Sylva,French,fra,FR,FR,43024265,35370644,3947255.0,223745.0,7,,True,181579.0,Ulysses (Chap. 16 - Eumaeus),James Joyce,https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated,0.2094,False,,
+1931.0,Les Pêcheurs de perles (sélection) ‐ (1re partie),Bizet,Georges Bizet,English,eng,FR,FR,36724292,30885692,3248262.0,12441.0,5,,False,,,,,0.0,False,,
+1931.0,Les Pêcheurs de perles (sélection) ‐ (2e partie),Bizet,Georges Bizet,English,eng,FR,FR,36724293,30885693,3248262.0,12441.0,5,,False,,,,,0.0,False,,
+1931.0,La Java argentine,"Paul Gesky, Orchestre Ultraphone, A. Bernard",Paul Gesky,French,fra,FR,FR,36724885,30886122,3248348.0,470818.0,8,,False,,,,,0.0,False,,
+1931.0,Tu ne m’oublieras pas,"Paul Gesky, Orchestre Ultraphone, A. Bernard",Paul Gesky,French,fra,FR,FR,36724886,30886123,3248348.0,470818.0,7,,False,,,,,0.0,False,,
+1931.0,Pauvre Mimi,Danielle Darrieux,Danielle Darrieux,French,fra,FR,FR,39007982,11288925,3496711.0,69931.0,7,,False,,,,,0.0,False,,
+1931.0,Ça s’appelle l’amour,Danielle Darrieux,Danielle Darrieux,French,fra,FR,FR,39007983,11288926,3496711.0,69931.0,8,,False,,,,,0.0,False,,
+1931.0,Le Beau Dimanche,"Darrieux, Mlle Lemichel du Roy, M. Grandini",Danielle Darrieux,French,fra,FR,FR,39007984,11288923,3496712.0,69931.0,8,,True,2986400.0,Veillée Pinouilles - Chapitre 10,James Joyce,https://genius.com/James-joyce-veillee-pinouilles-chapitre-10-annotated,0.2646,False,,
+1930.0,Paris je t’aime d’amour,Maurice Chevalier,Maurice Chevalier,French,fra,FR,FR,39276168,32689108,3527813.0,4033.0,8,,True,2097988.0,Paris je t’aime d’amour,Maurice Chevalier,https://genius.com/Maurice-chevalier-paris-je-taime-damour-lyrics,1.0,True,"1 Contributor
+Paris je t’aime d’amour Lyrics
+(Verse)
+Ô mon Paris ville idéale
+Il faut quitter dès ce soir
+Adieu, ma belle capitale
+Adieu, non, au revoir !
+(Chorus 1)
+Paris je t'aime, je t'aime, je t'aime
+Avec ivresse
+Comme une maîtresse
+Tu m'oublieras bien vite et pourtant
+Mon coeur est tout chaviré en te quittant
+Je peux te dire
+Qu'avec ton sourire
+Tu m'as pris l'âme
+Ainsi qu'une femme
+Tout en moi est à toi pour toujours
+Paris je t'aime, oui ! d'amour !
+(Chorus 2)
+Paris je t'aime, je t'aime, je t'aime, je t'aime
+Mais voyons !
+Puisque j'te dis que j’t'aime, allons !
+Pour les caresses
+De milles maîtresses
+Ell’s m'oublieront bien vite et pourtant
+Moi j'leur faisais j'me souviendrais bien longtemps
+L’un’ après et l'une
+La blond’ et la brune
+M'ont fait sans phrase
+Goûter mille extases
+J'te l'jure que j't'appartiens pour toujours
+Paris, je t'aime ? et comment ! - d'amour !",genius
+1930.0,Nouveau Bonheur,Maurice Chevalier,Maurice Chevalier,French,fra,FR,FR,39276169,32689109,3527813.0,4033.0,7,,True,7996056.0,Bonne année,Maurice Chevalier,https://genius.com/Maurice-chevalier-bonne-annee-lyrics,0.55,False,,
+1926.0,Coppélia: Prelude et Mazurka,Léo Delibes,Léo Delibes,English,eng,US,FR,10642877,12241180,814289.0,38542.0,3,,False,,,,,0.0,False,,
+1926.0,Le Dernier Sommeil de la Vierge (The Last Slumber of a Virgin),Jules Massenet,Jules Massenet,English,eng,US,FR,10642878,12241181,814289.0,44429.0,3,,False,,,,,0.0,False,,
+1930.0,Ta voix,"Mme Nitta-Jo, de l'Empire",Nitta-Jo,French,fra,FR,FR,47279466,22676251,4432982.0,603644.0,7,,False,,,,,0.0,False,,
+1930.0,Sainte Catherine de Paris,"Mme Nitta-Jo, de l'Empire",Nitta-Jo,French,fra,FR,FR,47279467,38427919,4432982.0,603644.0,8,,False,,,,,0.0,False,,
+1931.0,Tango des roses,"Mme Nitta-Jo, de l'Empire",Nitta-Jo,French,fra,FR,FR,47282856,38427921,4433449.0,603644.0,8,,False,,,,,0.0,False,,
+1931.0,Un rien !,"Mme Nitta-Jo, de l'Empire",Nitta-Jo,French,fra,FR,FR,47282857,38430397,4433449.0,603644.0,8,,False,,,,,0.0,False,,
+1932.0,Cocaïne,"Mme Nitta-Jo, de l'Empire",Nitta-Jo,French,fra,FR,FR,47281709,9118488,4433264.0,603644.0,7,,False,,,,,0.0,False,,
+1932.0,Du feu,"Mme Nitta-Jo, de l'Empire",Nitta-Jo,French,fra,FR,FR,47281710,9654465,4433264.0,603644.0,8,,False,,,,,0.0,False,,
+1932.0,Être adoré de toi (du film sonore « Mon oncle de Marseille »),Mme Nitta-Jo,Nitta-Jo,French,fra,FR,FR,47281756,38427926,4433270.0,603644.0,8,,False,,,,,0.0,False,,
+1932.0,Fleur de joie (du film sonore « Mon oncle de Marseille »),Mme Nitta-Jo,Nitta-Jo,French,fra,FR,FR,47281757,9654296,4433270.0,603644.0,8,,False,,,,,0.0,False,,
+1932.0,Señorita,"Mme Nitta-Jo, de l'Empire",Nitta-Jo,French,fra,FR,FR,47282596,38427923,4433406.0,603644.0,7,,False,,,,,0.0,False,,
+1932.0,Belle Gitane,"Mme Nitta-Jo, de l'Empire",Nitta-Jo,French,fra,FR,FR,47282597,38427929,4433406.0,603644.0,7,,False,,,,,0.0,False,,
+1930.0,La Petite Tonkinoise,Joséphine Baker,Joséphine Baker,French,fra,FR,FR,7781421,3943985,516258.0,4322.0,8,,True,1347869.0,La Petite Tonkinoise,Josephine Baker,https://genius.com/Josephine-baker-la-petite-tonkinoise-lyrics,0.9767,True,"1 Contributor
+La Petite Tonkinoise Lyrics
+C'est moi qui suis sa petite
+Son Anana, son Anana, son Anammite
+Je suis vive, je suis charmante
+Comme un p'tit z'oiseau qui chante
+Il m'appelle sa p'tite bourgeoise
+Sa Tonkiki, sa Tonkiki, sa Tonkinoise
+D'autres lui font les doux yeux
+Mais c'est moi qu'il aime le mieux
+L'soir on cause d'un tas d'choses
+Avant de se mettre au pieu
+J'apprends la géographie
+D'la Chine et d'la Mandchourie
+Les frontières, les rivières
+Le Fleuve Jaune et le Fleuve Bleu
+Y a même l'Amour c'est curieux
+Qu'arrose l'Empire du Milieu
+C'est moi qui suis sa petite
+Son Anana, son Anana, son Anammite
+Je suis vive, je suis charmante
+Comme un p'tit oiseau qui chante
+Il m'appelle sa p'tite bourgeoise
+Sa Tonkiki, sa Tonkiki, sa Tonkinoise
+D'autres lui font les doux yeux
+Mais c'est moi qu'il aime le mieux",genius
+1928.0,"C’est lui, c’est tout",Mme Fréhel,Fréhel,French,fra,FR,FR,43191961,3636466,3964428.0,136799.0,7,,True,2101785.0,Tel qu’il est,Fréhel,https://genius.com/Frehel-tel-quil-est-lyrics,0.5029,False,,
+1928.0,Il n’est pas du milieu,Mme Fréhel,Fréhel,French,fra,FR,FR,43191962,3636467,3964428.0,136799.0,8,,True,51951.0,J’marche avec ma clique,Seth Gueko,https://genius.com/Seth-gueko-jmarche-avec-ma-clique-lyrics,0.2897,False,,
+1932.0,Dans la rue,Fréhel,Fréhel,French,fra,FR,FR,43192161,3785600,3964450.0,136799.0,8,,True,8466499.0,Hymne à la racaille 2.0,Le 3ème Œil,https://genius.com/Le-3eme-il-hymne-a-la-racaille-20-lyrics,0.35,False,,
+1932.0,La Môme caoutchouc,Jean Gabin,Jean Gabin,French,fra,FR,FR,43192162,8435065,3964450.0,87122.0,8,,False,,,,,0.0,False,,
+1928.0,Berceuse du petit gueux,"Mme Fréhel, de l'Olympia",Fréhel,French,fra,FR,FR,43192275,3636465,3964466.0,136799.0,8,,True,11297460.0,The Truth of Masks,Oscar Wilde,https://genius.com/Oscar-wilde-the-truth-of-masks-annotated,0.2409,False,,
+1928.0,Quand il joue de l’accordéon,"Mme Fréhel, de l'Olympia",Fréhel,French,fra,FR,FR,43192276,3636468,3964466.0,136799.0,8,,True,537335.0,Freddy Gruesum vs Mike Mess,WordUP! Battles,https://genius.com/Wordup-battles-freddy-gruesum-vs-mike-mess-lyrics,0.2321,False,,
+1927.0,Quand on a trop de cœur,"Frehel, de l'Empire",Fréhel,French,fra,FR,FR,43192662,8378248,3964508.0,136799.0,8,,True,4424158.0,Mode Avion,Nefaste,https://genius.com/Nefaste-mode-avion-lyrics,0.2653,False,,
+1928.0,C’est vous (« It’s You »),Mlle Jane Aubert du Moulin Rouge,,French,fra,FR,,47292193,38430688,4434577.0,,5,,True,378152.0,Ultras festifs,Svinkels,https://genius.com/Svinkels-ultras-festifs-lyrics,0.197,False,,
+1928.0,"M’sieur, prenez‐moi",Mlle Jane Aubert du Moulin Rouge,,French,fra,FR,,47292192,3419892,4434577.0,,5,,True,9221711.0,Petit Pierrot,Bakari,https://genius.com/Bakari-petit-pierrot-lyrics,0.2809,False,,
+1928.0,La leçon de couture,Jane Styck,Jane Styck,French,fra,FR,FR,41280557,19977311,3749088.0,1429431.0,8,,True,2986127.0,Veillée Pinouilles - Chapitre 9,James Joyce,https://genius.com/James-joyce-veillee-pinouilles-chapitre-9-annotated,0.382,False,,
+1928.0,Tu m'as possédée par surprise,Jane Styck,Jane Styck,French,fra,FR,FR,41280558,34152776,3749088.0,1429431.0,7,,False,,,,,0.0,False,,
+1929.0,Venez avec moi,Fred Gouin,Fred Gouin,French,fra,FR,FR,41828021,34543442,3811976.0,237236.0,7,,True,151206.0,Finnegans Wake (Chap. 2.3),James Joyce,https://genius.com/James-joyce-finnegans-wake-chap-23-annotated,0.3275,False,,
+1929.0,Un soir à Singapour,Fred Gouin,Fred Gouin,French,fra,FR,FR,41828022,34543443,3811976.0,237236.0,8,,False,,,,,0.0,False,,
+1927.0,Quand on est tout seul,Maurice Chevalier,Maurice Chevalier,French,fra,FR,FR,41887538,34586829,3819026.0,4033.0,7,,True,7777911.0,À soixante-quinze berges,Maurice Chevalier,https://genius.com/Maurice-chevalier-a-soixante-quinze-berges-lyrics,0.5196,False,,
+1927.0,Les Gaz Hilarants,M. Constantin,Constantin Le Rieur,French,fra,FR,,41924480,34611444,3823069.0,618590.0,6,,False,,,,,0.0,False,,
+1927.0,Mon Petit Caprice,M. Constantin,Constantin Le Rieur,French,fra,FR,,41924481,34611445,3823069.0,618590.0,5,,False,,,,,0.0,False,,
+1929.0,Déshabillez-vous « Ça n'vaut pas le coup »,René Koval,René Koval,French,fra,FR,FR,41820438,34537162,3811099.0,556282.0,8,,False,,,,,0.0,False,,
+1929.0,Déshabillez-vous « Couplets-hésitation »,Edmond Roze,Edmond Roze,French,fra,FR,FR,41820439,34537163,3811099.0,1235164.0,7,,False,,,,,0.0,False,,
+1929.0,La chanson des heures,Fred Gouin,Fred Gouin,French,fra,FR,FR,44267232,36249183,4087960.0,237236.0,8,,True,8331947.0,Discographie 2023 — Pop & Rock,Genius Québec,https://genius.com/Genius-quebec-discographie-2023-pop-and-rock-annotated,0.1678,False,,
+1929.0,Mélancolie,Fred Gouin,Fred Gouin,French,fra,FR,FR,44267233,36249184,4087960.0,237236.0,7,,False,,,,,0.0,False,,
+1931.0,L'oiseau joli!,Marcelle Parisys,Marcelle Parisys,French,fra,FR,,44688187,36544299,4137076.0,2272172.0,5,,False,,,,,0.0,False,,
+1931.0,Pourvu qu'mes ch'veux frisent,Marcelle Parisys,Marcelle Parisys,French,fra,FR,,44688188,36544300,4137076.0,2272172.0,5,,True,8921304.0,Grünt #56,Grünt,https://genius.com/Grunt-grunt-56-lyrics,0.136,False,,
+1928.0,La boulangère a des écus : « Charbonniers et fariniers »,Jacques Offenbach,Jacques Offenbach,French,fra,FR,FR,46814623,31535415,4379212.0,37546.0,8,,False,,,,,0.0,False,,
+1928.0,La boulangère a des écus : « Que voulez-vous faire »,Jacques Offenbach,Jacques Offenbach,French,fra,FR,FR,46814624,38093228,4379212.0,37546.0,8,,False,,,,,0.0,False,,
+1928.0,Air du devin de village,Jean‐Jacques Rousseau,Jean‐Jacques Rousseau,French,fra,FR,CH,46814625,38093229,4379212.0,405325.0,6,,True,2983908.0,Veillée Pinouilles - Chapitre 6,James Joyce,https://genius.com/James-joyce-veillee-pinouilles-chapitre-6-annotated,0.2976,False,,
+1931.0,À la dérive,Fréhel,Fréhel,French,fra,FR,FR,46882755,3636463,4387346.0,136799.0,8,,True,6199112.0,Dans ma life,Nesly,https://genius.com/Nesly-dans-ma-life-lyrics,0.3534,False,,
+1925.0,La plus bath des javas,Georgius,Georgius,French,fra,FR,FR,46894657,10401013,4388764.0,235780.0,8,,True,1677588.0,La Plus Bath Des Javas,Georgius,https://genius.com/Georgius-la-plus-bath-des-javas-lyrics,1.0,True,"1 Contributor
+La Plus Bath Des Javas Lyrics
+Je vais vous raconter
+Une histoire arrivée
+A Nana et Julot Gueule d'Acier
+Pour vous raconter ça
+Il fallait une java
+J'en ai fait une bath écoutez-là
+Mais j' vous préviens surtout
+J' suis pas poète du tout
+Mes couplets n' riment pas bien
+Mais j' men fous !
+L' grand Julot et Nana
+Sur un air de java
+S' connurent au bal musette
+Sur un air de jav-ette
+Elle lui dit : J'ai l' béguin
+Sur un air de jav-in
+Il répondit : Tant mieux
+Sur un air déjà vieux
+Ah ! Ah ! Ah ! Ah !
+Écoutez ça si c'est chouette !
+Ah ! Ah ! Ah ! Ah !
+C'est la plus bath des javas
+Ils partirent tous les deux
+Comme des amoureux
+A l'hôtel meublé du Pou nerveux
+Le lendemain, l' grand Julot
+Lui dit : J' t'ai dans la peau
+Et il lui botta le bas du dos
+Elle lui dit : J'ai compris
+Tu veux d' l'argent, chéri
+J'en aurais à la sueur du nombril
+
+Alors elle s'en alla
+Sur un air de java
+Boulevard de la Chapelle
+Sur un air de javelle
+Elle s'vendit pour de l'or
+Sur un air de jav-or
+A trois francs la séance
+Sur un air de jouvence
+Ah ! Ah ! Ah ! Ah !
+Écoutez ça si c'est chouette !
+Ah ! Ah ! Ah ! Ah !
+C'est la plus bath des javas
+Son homme pendant ce temps
+Ayant besoin d'argent
+Mijotait un vol extravagant
+Il chipa... lui, Julot
+Une rame de métro
+Qu'il dissimula sous son paletot
+Le coup était bien fait
+Mais juste quand il sortait
+Une roue péta dans son gilet
+Alors, on l'arrêta
+Sur un air de java
+Mais rouge de colère
+Sur un air de jav-ère
+Dans le ventre du flic
+Sur un air de jav-ic
+Il planta son eustache
+Sur un air de jeune vache
+
+Ah ! Ah ! Ah ! Ah !
+Écoutez ça si c'est chouette !
+Ah ! Ah ! Ah ! Ah !
+C'est la plus bath des javas
+Couplet pathétique (parlé)
+Nana, ne sachant rien
+Continuait son turbin
+Six mois se sont passés... Un matin
+Elle rentre à la maison
+Mais elle a des frissons
+Elle s'arrête devant la prison
+L'échafaud se dresse là
+L' bourreau qui n' s'en fait pas
+Fait l' couperet à la pâte Oméga
+Julot vient à p'tits pas
+Sur un air de java
+C'est lui qu'on guillotine
+Sur un air de jav-ine
+Sa tête roule dans l' panier
+Sur un air de jav-ier
+Et Nana s'évan-ouille
+Sur air de jav-ouille
+Ah ! Ah ! Ah ! Ah !
+Écoutez ça si c'est chouette !
+Ah ! Ah ! Ah ! Ah !
+C'est la plus bath des javas",genius
+1925.0,Né un samedi soir,Georgius,Georgius,French,fra,FR,FR,46894658,38150534,4388764.0,235780.0,8,,True,1716385.0,Samedi soir,Georges Chelon,https://genius.com/Georges-chelon-samedi-soir-lyrics,0.7016,False,,
+1932.0,Aimez‐moi ce soir,Jeanette MacDonald,Jeanette MacDonald,French,fra,FR,US,47456741,38553398,4452449.0,98392.0,6,,False,,,,,0.0,False,,
+1932.0,N’est‐ce pas poétique,Jeanette MacDonald,Jeanette MacDonald,French,fra,FR,US,47456742,38553397,4452449.0,98392.0,5,,False,,,,,0.0,False,,
+1927.0,Je connais une blonde,Harry Fragson,Harry Fragson,French,fra,FR,FR,47457274,17078885,4452505.0,510494.0,8,,True,505072.0,"The Vampire, His Kith And Kin - Chapter 5",Montague Summers,https://genius.com/Montague-summers-the-vampire-his-kith-and-kin-chapter-5-annotated,0.2821,False,,
+1927.0,Pures comme les anges,Harry Fragson,Harry Fragson,French,fra,FR,FR,47457275,27631336,4452505.0,510494.0,8,,True,462569.0,A Sentimental Journey Through France and Italy,Laurence Sterne,https://genius.com/Laurence-sterne-a-sentimental-journey-through-france-and-italy-annotated,0.2746,False,,
+1927.0,La Caravane,M. Milton du Théâtre des Nouveautés,Georges Milton,French,fra,FR,FR,47529736,4513002,4460365.0,247726.0,8,,True,157072.0,Don Juan (Canto 13),Lord Byron,https://genius.com/Lord-byron-don-juan-canto-13-annotated,0.3625,False,,
+1930.0,Donne‐toi une tape dans le dos,"M. Milton, du Théâtre des Nouveautés",Georges Milton,French,fra,FR,FR,47529983,38598618,4460397.0,247726.0,8,,True,386223.0,Chronique - Kaaris vs Booba : La Moitié d’un poto c’est la moitié d’un traître,Heure du crime,https://genius.com/Heure-du-crime-chronique-kaaris-vs-booba-la-moitie-dun-poto-cest-la-moitie-dun-traitre-annotated,0.2815,False,,
+1929.0,Elle est a vous : Jules !,M. Milton du Théâtre des Nouveautés,Georges Milton,French,fra,FR,FR,47552060,38623698,4462732.0,247726.0,7,,True,10509784.0,Freestyle Raplume All Stars,Shades,https://genius.com/Shades-freestyle-raplume-all-stars-lyrics,0.295,False,,
+1930.0,J’ai ma combine,M. Milton du Théâtre des Nouveautés,Georges Milton,French,fra,FR,FR,47552261,4508837,4462753.0,247726.0,7,,True,2823803.0,Gucci clone,Jorrdee,https://genius.com/Jorrdee-gucci-clone-lyrics,0.4,False,,
+1930.0,C’est pour mon papa,M. Milton du Théâtre des Nouveautés,Georges Milton,French,fra,FR,FR,47552262,4560462,4462753.0,247726.0,7,,True,9181161.0,Mon paradis,Ades,https://genius.com/Ades-mon-paradis-lyrics,0.3811,False,,
+1930.0,J’ai ma combine,M. Georges Milton du Théâtre des Nouveautés,Georges Milton,French,fra,FR,FR,47552543,38624078,4462784.0,247726.0,7,,True,2823803.0,Gucci clone,Jorrdee,https://genius.com/Jorrdee-gucci-clone-lyrics,0.4,False,,
+1930.0,C’est pour mon papa,M. Georges Milton du Théâtre des Nouveautés,Georges Milton,French,fra,FR,FR,47552544,38624079,4462784.0,247726.0,7,,True,9181161.0,Mon paradis,Ades,https://genius.com/Ades-mon-paradis-lyrics,0.3811,False,,
+1932.0,Pour être un jour aimé de toi,Mlle Gabrielle Ristori et M. Georges Milton,Gabrielle Ristori,French,fra,FR,FR,47553217,11353790,4462866.0,1987359.0,8,,True,505072.0,"The Vampire, His Kith And Kin - Chapter 5",Montague Summers,https://genius.com/Montague-summers-the-vampire-his-kith-and-kin-chapter-5-annotated,0.1618,False,,
+1932.0,L’Auberge du Cheval blanc,M. Georges Milton,Georges Milton,French,fra,FR,FR,47553218,17520800,4462866.0,247726.0,8,,True,699923.0,Traité sur la Tolérance,Voltaire,https://genius.com/Voltaire-traite-sur-la-tolerance-annotated,0.258,False,,
+1927.0,"Siegfried: Fantaisie, 1ère Partie.",R. Wagner,Richard Wagner,French,fra,FR,DE,48369466,39388056,4552193.0,15747.0,5,,False,,,,,0.0,False,,
+1927.0,"Siegfried: Fantaisie, 2° Partie.",R. Wagner,Richard Wagner,French,fra,FR,DE,48369467,39388057,4552193.0,15747.0,5,,False,,,,,0.0,False,,
+1927.0,"Siegfried: Fantaisie, 3° Partie.",R. Wagner,Richard Wagner,French,fra,FR,DE,48369468,39388058,4552193.0,15747.0,5,,False,,,,,0.0,False,,
+1927.0,"Siegfried: Fantaisie, 4° Partie.",R. Wagner,Richard Wagner,French,fra,FR,DE,48369469,39388059,4552193.0,15747.0,5,,False,,,,,0.0,False,,
+1929.0,Les Ménétriers,Damia,Damia,French,fra,FR,FR,41206805,7343389,3740513.0,235389.0,8,,True,4205149.0,Les menteries,Gilles Vigneault,https://genius.com/Gilles-vigneault-les-menteries-lyrics,0.563,False,,
+1930.0,Plaisir des bois,John Hoddé et van Laar,John Hodde & van Laar,French,fra,FR,NL,51340548,41547643,4910019.0,2970026.0,6,,True,505062.0,"The Vampire, His Kith And Kin - Chapter 1",Montague Summers,https://genius.com/Montague-summers-the-vampire-his-kith-and-kin-chapter-1-annotated,0.2314,False,,
+1930.0,Coucou!,John Hoddé et van Laar,John Hodde & van Laar,French,fra,FR,NL,51340549,41547644,4910019.0,2970026.0,5,,True,141146.0,Ulysses (Chap. 15 - Circe),James Joyce,https://genius.com/James-joyce-ulysses-chap-15-circe-annotated,0.1444,False,,
+1928.0,C’est le mai,Yvette Guilbert,Yvette Guilbert,French,fra,FR,FR,53399158,42991486,5166831.0,235786.0,8,,True,464812.0,Chapter 2,Marcel Proust,https://genius.com/Marcel-proust-chapter-2-annotated,0.2357,False,,
+1928.0,Dites‐moi si je suis belle,Yvette Guilbert,Yvette Guilbert,French,fra,FR,FR,53399099,42991429,5166822.0,235786.0,7,,False,,,,,0.0,False,,
+1928.0,La Délaissée,Yvette Guilbert,Yvette Guilbert,French,fra,FR,FR,53409696,42991488,5166831.0,235786.0,8,,False,,,,,0.0,False,,
+1928.0,Je m’embrouille,Yvette Guilbert,Yvette Guilbert,French,fra,FR,FR,53409727,42999049,5166821.0,235786.0,7,,False,,,,,0.0,False,,
+1928.0,Pourquoi me bat mon mari,Yvette Guilbert,Yvette Guilbert,French,fra,FR,FR,53409763,42991431,5166822.0,235786.0,7,,False,,,,,0.0,False,,
+1928.0,Elle était très bien,Yvette Guilbert,Yvette Guilbert,French,fra,FR,FR,53399098,42991428,5166821.0,235786.0,7,,False,,,,,0.0,False,,
+1926.0,Mon Paris!,M. Alibert,Alibert,French,fra,FR,FR,55503254,44474804,5442317.0,812419.0,8,,True,780578.0,Adieu... Venise Provençale,Alibert,https://genius.com/Alibert-adieu-venise-provencale-lyrics,0.4944,False,,
+1926.0,Petite Vache,M. Alibert,Alibert,French,fra,FR,FR,55503255,44474805,5442317.0,812419.0,7,,True,744276.0,Petite peine,Aldebert,https://genius.com/Aldebert-petite-peine-lyrics,0.7133,False,,
+1927.0,En l'an 2000,M. Alibert,Alibert,French,fra,FR,FR,55503425,44474924,5442353.0,812419.0,7,,True,791585.0,Carpe Diem,Aldebert,https://genius.com/Aldebert-carpe-diem-lyrics,0.3982,False,,
+1927.0,C'est Janine,M. Alibert,Alibert,French,fra,FR,FR,55503426,44474925,5442353.0,812419.0,7,,True,12833150.0,LES MOTS,Kirkor Albert,https://genius.com/Kirkor-albert-les-mots-lyrics,0.405,False,,
+1932.0,Sans amour,Mlle Joséphine Baker et son orchestre,Joséphine Baker,French,fra,FR,FR,46972164,15671005,4398133.0,4322.0,8,,True,1135708.0,Sans Amour,Josephine Baker,https://genius.com/Josephine-baker-sans-amour-lyrics,0.9767,True,"1 Contributor
+Sans Amour Lyrics
+Dans ce grand Paris
+Si loin de mon pays
+De longs mois
+Oui, j'ai vécu
+Ainsi qu'un oiseau perdu
+Je cherchais en vain
+A oublier mon chagrin
+Maintenant je sais
+Ce que j'étais
+Sans amour
+Sans une seule caresse
+Sans amour
+Sans l'ombre d'une tendresse
+Sans un coeur
+Pour partager ma détresse
+Nul espoir
+D'être bercée chaque soir
+Je ne regrette pas
+Ma savane et mon ciel de là-bas
+Ma forêt, mes ruisseaux
+La chanson des roseaux
+Plus que tout
+Ce qui faisait ma tristesse
+Nuit et jour
+C'est que j'étais sans amour
+Sans amour
+Sans une seule caresse
+Sans amour
+Même pas l'ombre d'une tendresse
+Sans un coeur, pas un coeur
+Pour partager ma détresse
+Nul espoir, pas d'espoir
+D'être bercée chaque soir
+Je ne regrette pas
+Ma savane et mon ciel de là-bas
+Ma forêt , mes ruisseaux
+La chanson des roseaux
+Plus que tout
+Ce qui faisait ma tristesse
+Nuit et jour
+C'est que j'étais sans amour",genius
+1932.0,Si j’étais blanche,Mlle Joséphine Baker et son orchestre,Joséphine Baker,French,fra,FR,FR,32091389,45451,2778903.0,4322.0,7,,True,2093016.0,Si j’étais blanche,Josephine Baker,https://genius.com/Josephine-baker-si-jetais-blanche-lyrics,0.9767,True,"1 Contributor
+Si j’étais blanche Lyrics
+Je voudrais être blanche
+Pour moi quel bonheur
+Si mes seins et mes hanches
+Changent de couleur
+Les Parisiens à Juan-les-Pins
+Se faisaient droit
+Au soleil d",genius
