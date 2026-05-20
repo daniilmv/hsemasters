@@ -4,7 +4,6 @@
 
 This repository holds the code, notebooks and thesis for a Master's project at HSE on the thematic and emotional evolution of French-language popular song between 1925 and 2025. The pipeline builds a 63,652-song corpus from MusicBrainz and Genius, classifies every song by topic and mood using multilingual zero-shot NLI, and validates the outputs through template sensitivity, cross-model agreement, human annotation, calibration, bootstrap intervals and genre-adjusted regression.
 
-The public-facing version of the findings lives at **[daniilvoloshin.com/chanson](https://daniilvoloshin.com/chanson)**.
 The full thesis (PDF) is in this repo: **[Voloshin_D_M_thesis.pdf](./Voloshin_D_M_thesis.pdf)**.
 
 ---
