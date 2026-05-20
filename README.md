@@ -107,7 +107,7 @@ These limitations are discussed in detail in §2.13 of the thesis.
 
 If you use the code, the corpus construction logic or the findings, please cite the thesis:
 
-> Voloshin, D. M. (2025). *The Thematic and Emotional Evolution of French Song Lyrics, 1925–2025: A Computational NLP Approach.* Master's thesis, HSE University.
+> Voloshin, D. M. (2025). *THEMATIC AND EMOTIONAL TRENDS IN FRENCH SONG LYRICS: A COMPUTATIONAL NLP ANALYSIS FROM 1925 TO 2025.* Master's thesis, HSE University.
 
 ---
 
