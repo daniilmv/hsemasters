@@ -1,4 +1,0 @@
-*.csv filter=lfs diff=lfs merge=lfs -text
-masters/data/final_dataset.csv filter=lfs diff=lfs merge=lfs -text
-masters/data/nlp_final_dataset.csv filter=lfs diff=lfs merge=lfs -text
-masters/data/*.csv filter=lfs diff=lfs merge=lfs -text
