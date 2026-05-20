@@ -1,4 +1,4 @@
-# hsemasters
+# THEMATIC AND EMOTIONAL TRENDS IN FRENCH SONG LYRICS: A COMPUTATIONAL NLP ANALYSIS FROM 1925 TO 2025
 
 **A century of French song lyrics, computationally analysed (1925–2025).**
 
@@ -114,10 +114,10 @@ If you use the code, the corpus construction logic or the findings, please cite 
 
 ## Links
 
-- **Public project:** [daniilvoloshin.com/chanson](https://daniilvoloshin.com/chanson)
+- **Public project:** [daniilvoloshin.com/chanson](https://daniilvoloshin.com/chanson) [avaliable past 
 - **Thesis PDF:** [Voloshin_D_M_thesis.pdf](./Voloshin_D_M_thesis.pdf)
 - **MusicBrainz:** [musicbrainz.org](https://musicbrainz.org)
-- **Genius / lyricsgenius:** [github.com/johnwmillr/LyricsGenius](https://github.com/johnwmillr/LyricsGenius)
+- **Genius / lyricsgenius:** [Genius](https://genius.com/) / [github.com/johnwmillr/LyricsGenius](https://github.com/johnwmillr/LyricsGenius)
 
 ---
 
