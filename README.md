@@ -114,7 +114,7 @@ If you use the code, the corpus construction logic or the findings, please cite 
 
 ## Links
 
-- **Public project:** [daniilvoloshin.com/chanson](https://daniilvoloshin.com/chanson) [avaliable past 
+- **Public project:** [daniilvoloshin.com/chanson](https://daniilvoloshin.com/chanson) [going online 25.05.2026]
 - **Thesis PDF:** [Voloshin_D_M_thesis.pdf](./Voloshin_D_M_thesis.pdf)
 - **MusicBrainz:** [musicbrainz.org](https://musicbrainz.org)
 - **Genius / lyricsgenius:** [Genius](https://genius.com/) / [github.com/johnwmillr/LyricsGenius](https://github.com/johnwmillr/LyricsGenius)
