@@ -122,4 +122,4 @@ If you use the code, the corpus construction logic or the findings, please cite 
 
 ## License
 
-Code released for academic and research use. Lyrics retrieved via Genius remain the property of their respective rights holders and are not redistributed here.
+Code released for academic and research use. Lyrics retrieved via Genius remain the property of their respective rights holders.
