@@ -1,0 +1,28 @@
+{
+  "model": "MoritzLaurer/mDeBERTa-v3-base-mnli-xnli",
+  "labels": [
+    "joyeux",
+    "triste",
+    "nostalgique",
+    "tendre",
+    "apaisé ou plein d’espoir",
+    "colérique ou rebelle",
+    "angoissé",
+    "ironique ou désabusé"
+  ],
+  "template": "Cette chanson exprime un sentiment {}.",
+  "n_rows": 63652,
+  "sample_titles": [
+    "Les Faux-Monnayeurs incipit",
+    "La toison dor",
+    "Aoua",
+    "Effacer",
+    "Histoire dun Premier Amour",
+    "SKIP TO MY LOU",
+    "TRILL TALK",
+    "X-MEN"
+  ],
+  "chunk_size": 400,
+  "chunk_overlap": 50,
+  "max_chunks": 6
+}

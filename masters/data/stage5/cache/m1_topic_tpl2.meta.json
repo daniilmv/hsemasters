@@ -1,0 +1,28 @@
+{
+  "model": "MoritzLaurer/mDeBERTa-v3-base-mnli-xnli",
+  "labels": [
+    "amour et désir",
+    "rupture, perte et deuil",
+    "fête, plaisir et célébration",
+    "nostalgie, mémoire et temps qui passe",
+    "révolte, critique sociale et engagement",
+    "introspection, quête de sens et spiritualité",
+    "voyage, lieux et appartenance",
+    "vie quotidienne, famille et société"
+  ],
+  "template": "Le thème principal de cette chanson est {}.",
+  "n_rows": 63652,
+  "sample_titles": [
+    "Les Faux-Monnayeurs incipit",
+    "La toison dor",
+    "Aoua",
+    "Effacer",
+    "Histoire dun Premier Amour",
+    "SKIP TO MY LOU",
+    "TRILL TALK",
+    "X-MEN"
+  ],
+  "chunk_size": 400,
+  "chunk_overlap": 50,
+  "max_chunks": 6
+}
